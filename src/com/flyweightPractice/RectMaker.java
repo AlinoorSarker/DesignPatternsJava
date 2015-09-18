@@ -1,4 +1,4 @@
-package cpm.flyweightPractice;
+package com.flyweightPractice;
 
 import java.awt.Color;
 import java.util.HashMap;

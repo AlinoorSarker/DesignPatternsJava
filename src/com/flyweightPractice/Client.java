@@ -1,4 +1,4 @@
-package cpm.flyweightPractice;
+package com.flyweightPractice;
 
 import java.awt.BorderLayout;
 import java.awt.Color;

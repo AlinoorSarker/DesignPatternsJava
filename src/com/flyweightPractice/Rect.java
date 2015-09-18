@@ -1,4 +1,4 @@
-package cpm.flyweightPractice;
+package com.flyweightPractice;
 import java.awt.Color;
 import java.awt.Graphics;
 public class Rect {
